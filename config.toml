@@ -54,7 +54,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.skills]
-        enable = false
+        enable = true
 
         [[params.skills.list]]
         title = "Technical"
