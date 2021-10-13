@@ -182,6 +182,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Conduct automotive inspections, diagnostics and repairs on vehicles including engines, transmissions, differentials, brakes, clutches, starters, axles, steering gears, carburetors, fuel systems, cooling systems, and other mechanical and electrical systems. Trusted to drive loaner vehicles to other dealerships to pick up customer vehicles. Accurately logged all known issues with vehicles noting any services that were needed for repair and preventative maintenance."
         
         [[params.experience.list]]
+        title = "Delivery Associate"
+        dates = "April 2018 - May 2019"
+        company = "Home Depot"
+        details = "Accurately picked will calls and online orders in an efficient manner. Took note of all missing items that could not be fulfilled in the store due to being out of stock. Took online data entry for inventory. Operated heavy equipment such as: lift truck, reach truck, ballymore and order picker. Stocked store with new inventory."
+        
+        [[params.experience.list]]
         title = "Manager"
         dates = "August 2017 - February 2018"
         company = "Provapor"
@@ -198,12 +204,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "November 2015 - September 2016"
         company = "T-Mobile"
         details = "Provided service to customers in regard to helping them pick the right device and services to fit their lives. Administrated all points of sale opening and closing procedures."
-        
-        [[params.experience.list]]
-        title = "Delivery Associate"
-        dates = "April 2018 - May 2019"
-        company = "Home Depot"
-        details = "Accurately picked will calls and online orders in an efficient manner. Took note of all missing items that could not be fulfilled in the store due to being out of stock. Took online data entry for inventory. Operated heavy equipment such as: lift truck, reach truck, ballymore and order picker. Stocked store with new inventory."
 
 
 
